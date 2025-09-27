@@ -1,5 +1,4 @@
-# POWERBI_HR_DASHBOARD
-HR_ANALYSIS DASHBOARD
+
 # Project Title: HR Analysis Dashboard in Power BI
 ## Overview:
  This dashboard provides insights into employee attrition and job satisfaction across departments, roles, and demographics. The goal was to help HR professionals and organizational leaders identify patterns and develop strategies to improve employee retention and engagement.
@@ -10,8 +9,8 @@ HR_ANALYSIS DASHBOARD
 -  Job satisfaction metrics by role
 - Insights to support targeted retention strategies
 ## Tools Used:
-Power BI
-Excel (data cleaning and preparation)
+- Power BI
+- Excel (data cleaning and preparation)
 ## Insights:
 R&D department has the highest attrition, indicating a need for focused retention strategies.
 Sales shows moderate attrition; HR shows the lowest, highlighting effective practices.

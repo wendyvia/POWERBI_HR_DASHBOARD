@@ -4,11 +4,11 @@ HR_ANALYSIS DASHBOARD
 ## Overview:
  This dashboard provides insights into employee attrition and job satisfaction across departments, roles, and demographics. The goal was to help HR professionals and organizational leaders identify patterns and develop strategies to improve employee retention and engagement.
 ## Key Features:
-Interactive dashboard built in Power BI
-Attrition analysis by department, role, and education background
-Demographic breakdown by age and gender
-## Job satisfaction metrics by role
-Insights to support targeted retention strategies
+- Interactive dashboard built in Power BI
+- Attrition analysis by department, role, and education background
+- Demographic breakdown by age and gender
+-  Job satisfaction metrics by role
+- Insights to support targeted retention strategies
 ## Tools Used:
 Power BI
 Excel (data cleaning and preparation)
